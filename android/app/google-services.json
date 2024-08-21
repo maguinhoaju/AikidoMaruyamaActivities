@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "113728386052",
-    "project_id": "login-91fd9",
-    "storage_bucket": "login-91fd9.appspot.com"
+    "project_number": "335293906980",
+    "project_id": "aikido-asa",
+    "storage_bucket": "aikido-asa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:113728386052:android:b7effb50c769dec13d3151",
+        "mobilesdk_app_id": "1:335293906980:android:c633b8a61e3f3c79abd8b1",
         "android_client_info": {
-          "package_name": "com.example.login"
+          "package_name": "com.aikidoasa.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB1QyALur5rcZ3WihVr3ih-2099qsI1ge0"
+          "current_key": "AIzaSyDmV3_Ki4s9lyDvaNmGuiU4hTWXMqxeEsU"
         }
       ],
       "services": {
